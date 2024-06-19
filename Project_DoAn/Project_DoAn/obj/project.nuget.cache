@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "VhM1kkJ0DcYFyNcH6OuwhkMKg0eBiIDE/DNCEQ0YmLBZ1kOQiEnn/pRBl33jFIZPq0vk1hFFonXcJBK2Wsw5yg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Khanh\\Downloads\\Project_DoAn\\Project_DoAn\\Project_DoAn.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Khanh\\.nuget\\packages\\documentformat.openxml\\3.0.2\\documentformat.openxml.3.0.2.nupkg.sha512",
+    "C:\\Users\\Khanh\\.nuget\\packages\\documentformat.openxml.framework\\3.0.2\\documentformat.openxml.framework.3.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}
